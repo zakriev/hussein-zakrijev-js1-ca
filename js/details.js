@@ -46,3 +46,4 @@ function dataCharacter(json) {
 	location.innerHTML = json.location.name;
 }
 
+
