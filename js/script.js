@@ -48,3 +48,4 @@ fetch(charUrl)
   .then(viewCharacters)
   .then(allCharacters)
   .catch(inCaseError);
+
