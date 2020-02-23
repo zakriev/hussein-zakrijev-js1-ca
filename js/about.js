@@ -6,3 +6,4 @@ function textUpdate() {
 }
 setTimeout(textUpdate, 4000);
 
+
